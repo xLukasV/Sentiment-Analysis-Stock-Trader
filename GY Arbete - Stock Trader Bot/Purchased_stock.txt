@@ -1,0 +1,33 @@
+Purchased stock: EV, Value: $24.7922, Date: 2025-02-26 08:50:55.402011
+Purchased stock: EU, Value: $2.5500, Date: 2025-02-26 08:51:07.615237
+Purchased stock: YINN, Value: $45.2700, Date: 2025-02-27 20:28:03.200604
+Purchased stock: UPRO, Value: $90.2600, Date: 2025-02-27 20:28:07.336044
+Purchased stock: BABA, Value: $140.1490, Date: 2025-02-27 20:28:11.916949
+Purchased stock: FXI, Value: $36.4400, Date: 2025-02-27 20:28:16.514243
+Purchased stock: SPY, Value: $594.5400, Date: 2025-02-27 20:28:22.907714
+Purchased stock: SHOP, Value: $110.9900, Date: 2025-02-28 16:04:22.867435
+Purchased stock: NVDA, Value: $124.8900, Date: 2025-03-01 20:07:58.013377
+Purchased stock: TSLA, Value: $293.6800, Date: 2025-03-02 18:48:11.312570
+Purchased stock: SPY, Value: $594.1800, Date: 2025-03-03 09:03:07.071782
+Purchased stock: AI, Value: $22.0700, Date: 2025-03-04 16:23:15.844654
+Purchased stock: DJT, Value: $22.5000, Date: 2025-03-05 11:27:54.925648
+Purchased stock: GS, Value: $582.0000, Date: 2025-03-05 11:28:01.440135
+Purchased stock: AAPL, Value: $235.7700, Date: 2025-03-06 17:07:50.467022
+Purchased stock: GOOG, Value: $175.0000, Date: 2025-03-06 17:07:53.860590
+Purchased stock: AMZN, Value: $208.1900, Date: 2025-03-06 17:07:59.521546
+Purchased stock: MSFT, Value: $400.5500, Date: 2025-03-06 17:08:03.773230
+Purchased stock: APP, Value: $260.2600, Date: 2025-03-07 19:48:19.412381
+Purchased stock: PLTR, Value: $81.3700, Date: 2025-03-07 19:48:26.788296
+Purchased stock: TSLA, Value: $261.6500, Date: 2025-03-07 19:48:32.504009
+Purchased stock: DJT, Value: $22.3300, Date: 2025-03-08 16:07:28.830254
+Purchased stock: HD, Value: $376.0500, Date: 2025-03-09 15:19:41.232313
+Purchased stock: DJT, Value: $22.3300, Date: 2025-03-10 14:08:44.436551
+Purchased stock: TSLA, Value: $215.9800, Date: 2025-03-11 11:11:55.233856
+Purchased stock: AI, Value: $21.0300, Date: 2025-03-12 09:49:57.977607
+Purchased stock: GOOG, Value: $166.3800, Date: 2025-03-12 09:50:01.964305
+Purchased stock: MS, Value: $114.8500, Date: 2025-03-13 09:31:55.434691
+Purchased stock: DJT, Value: $19.3188, Date: 2025-03-15 00:57:10.357405 (Forgot to run the program earlier today. This is technically the 14th not 15th)
+Purchased stock: EV, Value: $24.7045, Date: 2025-03-16 02:04:07.092716
+Purchased stock: TSLA, Value: $249.8200, Date: 2025-03-16 02:04:11.988093 (Same here forgot to run the program earlier in the day)
+Purchased stock: EV, Value: $24.7045, Date: 2025-03-16 17:28:43.630112
+Purchased stock: TSLA, Value: $249.8200, Date: 2025-03-16 17:28:49.724487
