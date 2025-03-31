@@ -5,7 +5,7 @@ import random
 
 #Uses the Alpha Vantage API to fetch data from the ticker symbol.
 def Stock_info(ticker):
-    Api_Key = "00BLEDRGCXSGA8WG"  
+    Api_Key = "*************"  
     interval = "5min" #Stock Prices updated every 5
     date = dt.datetime.now()
 
