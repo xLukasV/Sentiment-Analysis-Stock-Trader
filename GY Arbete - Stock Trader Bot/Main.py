@@ -39,11 +39,11 @@ print('Accuracy:', accuracy_score(y_test, predictions))
 
 # Initialize Reddit API client using credentials from a created Reddit app
 reddit = praw.Reddit(
-    client_id="V4ih-2hjCDRjUqIs6hX-Zw",
-    client_secret="1xZktDJo7oPKd23a2sIV9OBtvc3x2A",
+    client_id="****************",
+    client_secret="***************",
     user_agent="My Reddit app by u/AdvertisingSecret327",
-    username="AdvertisingSecret327",
-    password="Dart#32493"
+    username="*************",
+    password="*************"
 )
 
 # Select the subreddit to browse
